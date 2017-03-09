@@ -9,6 +9,10 @@ local.properties
 .settings/
 .loadpath
 .recommenders
+.idea/
+
+out/
+SSD_Lecture6.iml
 
 # Eclipse Core
 .project
